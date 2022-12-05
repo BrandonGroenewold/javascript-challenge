@@ -42,4 +42,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ![hw](Images/hw02.png)
 
-7. Finally I deployed my app to a free static page hosting service
+7. Finally I deployed my app to a free static page hosting service 
